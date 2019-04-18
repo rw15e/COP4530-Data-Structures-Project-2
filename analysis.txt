@@ -1,0 +1,3 @@
+reverse() has a worst-case run-time complexity of O(n) because it is simply a loop running through the list pushing each item to the back.
+
+remove_if() has a worst-case run-time complexity of O(n) because it is simply looping through the list checking for a match and if matches are found it is removed until the end is reached. 
